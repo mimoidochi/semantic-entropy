@@ -1,5 +1,5 @@
 import run_llava
-import calculate_semantic_entropy
+import semantic_entropy
 import pandas as pd
 import numpy as np
 from datasets import load_dataset
